@@ -1,0 +1,35 @@
+Dear group_0607,
+
+This semester, we talked about MVP, the Model-View-Presenter architecture. It has many advantages, particularly when working with Android. As you can see from your project, your activity classes have methods that are specific to Android. If you encapsulate the rest of your code sufficiently, it is possible to port it to another platform simply by creating a new UI (for example, a website).
+
+Encapsulation can take on many forms. You can package your View classes together. You can ensure that your dependencies go one-way, towards the inner more abstract layers. You can incorporate SOLID principles as much as possible and design patterns where they make sense.
+Here is feedback that is specific to your project:
+
+You made good use of...
++ regex
++ listeners
++ Strategy pattern in the BrickLayout
++ a good start towards collision detection
++ generics
++ SOLID principles, especially Open/Closed and Dependency Inversion
++ interfaces
++ a credentials file for the LoginModel
+
+The user will see...
++ Pong, Breakout, and Shootemup games
++ buttons that are disabled until you are allowed to press them (good idea!)
++ pause functionality for pong and breakout
++ useful statistics
++ nice configuration options, including fast paddle, fast ball, and double enemies
+
+A good next step would be to...
++ Consider expanding your use of Clean Architecture, particularly when saving and loading informatoin. Interactions with your file system should follow Clean Architecture if you want to make it possible to change the look or platform of your game without having to rewrite its inner workings.
++ Listeners follow the Observer pattern. So you did, in fact, implement that pattern. There is no reason to avoid it for updating the screen.
++ The Deleter class takes the Single Responsibility Principle a bit too far. Make sure that each class does something substantial. Otherwise, it creates even more work for someone who is new to your team and trying to learn how to work with your code. Alternatively, is there anything else you can think to put inside that class that contributes to its only responsibility?
++ Overall, your code has nicely improved since Phase 1. Good work!
+
+We hope that you enjoyed working on this project and found it a useful learning experience.
+
+Cheers,
+The CSC207 Instructional Team
+

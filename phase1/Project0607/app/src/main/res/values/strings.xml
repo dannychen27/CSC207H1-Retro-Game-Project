@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Project0607</string>
+    <string name="game_pong_button">Pong</string>
+    <string name="game_breakout_button">Breakout</string>
+    <string name="game_shmup_button">Shoot \'em Up</string>
+    <string name="game_stats_button">Game Statistics</string>
+    <string name="stat_shmup_enemies_killed">Enemies killed</string>
+    <string name="stat_pong_total_touches">Total touches</string>
+    <string name="stat_pong_player_score">Player score</string>
+    <string name="stat_pong_computer_score">Computer score</string>
+    <string name="stat_breakout_bricks_destroyed">Bricks destroyed</string>
+    <string name="stats_pong">Pong Statistics</string>
+    <string name="stats_breakout">Breakout Statistics</string>
+    <string name="stats_shmup">Shoot \'em Up Statistics</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="incorrect_password">"Incorrect password"</string>
+    <string name="problem_opening_file_for_reading">"Error encountered trying to open file for
+        reading: "</string>
+    <string name="problem_opening_file_for_writing">"Error encountered trying to open file
+        for writing: "</string>
+    <string name="missing_username">"Missing username"</string>
+    <string name="missing_password">"Missing password"</string>
+    <string name="weak_password">"Weak password"</string>
+    <string name="config_paddle_speed">Fast Paddle</string>
+    <string name="config_title">Game Configuration</string>
+    <string name="config_ball_speed">Fast Ball</string>
+    <string name="config_more_enemies">More Enemies</string>
+    <string name="game_config_button">Configuration</string>
+    <string name="title_stats">Statistics</string>
+    <string name="resume_game">Resume</string>
+    <string name="paused_game">Game Paused</string>
+    <string name="pause_button">Pause</string>
+    <string name="resume_button">Resume</string>
+</resources>

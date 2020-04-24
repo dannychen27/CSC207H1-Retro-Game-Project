@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sprite_arrow_left">&lt;=</string>
+    <string name="sprite_arrow_right">=&gt;</string>
+    <string name="sprite_ball">o</string>
+    <string name="sprite_bullet">|</string>
+    <string name="sprite_computer">COMPUTER</string>
+    <string name="sprite_enemy">ENEMY</string>
+    <string name="sprite_player">PLAYER</string>
+    <string name="sprite_brick">▂▂▂</string>
+</resources>

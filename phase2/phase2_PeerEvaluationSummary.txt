@@ -1,0 +1,6 @@
+Send a message in slack before you work on something and also right before you push. This will let everyone know what everyone else is working on.
+Wait for at least two other people on slack to approve the changes (react to the message with a tick) before actually pushing, therefore we have accountability and review before we make changes to master.
+
+Delegate work, we should assign tasks more evenly, everyone should know what next to work on.
+
+Check slack more often (daily if possible), make sure notifications are turned on. (Therefore we can all approve changes when necessary)

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Project0607</string>
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_register">Register</string>
+    <string name="action_login">Log in</string>
+    <string name="incorrect_password">"Incorrect password"</string>
+    <string name="problem_opening_file_for_reading">"Error encountered trying to open file for
+        reading: "</string>
+    <string name="problem_opening_file_for_writing">"Error encountered trying to open file
+        for writing: "</string>
+    <string name="missing_username">"Missing username"</string>
+    <string name="missing_password">"Missing password"</string>
+    <string name="weak_password">"Weak password"</string>
+
+    <string name="game_pong_button">Pong</string>
+    <string name="game_breakout_button">Breakout</string>
+    <string name="game_shmup_button">Shoot \'em Up</string>
+    <string name="game_stats_button">Game Statistics</string>
+    <string name="game_config_button">Configuration</string>
+
+    <string name="config_title">Game Configuration</string>
+    <string name="config_paddle_speed">Fast Paddle</string>
+    <string name="config_ball_speed">Fast Ball</string>
+    <string name="config_more_enemies">More Enemies</string>
+
+    <string name="stats_title">Statistics</string>
+    <string name="stats_pong">Pong Statistics</string>
+    <string name="stat_pong_total_touches">Total touches</string>
+    <string name="stat_pong_player_score">Player score</string>
+    <string name="stat_pong_computer_score">Computer score</string>
+    <string name="stats_breakout">Breakout Statistics</string>
+    <string name="stat_breakout_bricks_destroyed">Bricks destroyed</string>
+    <string name="stats_shmup">Shoot \'em Up Statistics</string>
+    <string name="stat_shmup_total_enemies_killed">Total enemies killed</string>
+    <string name="stat_shmup_octopus_enemies_killed">Octopus enemies killed</string>
+    <string name="stat_shmup_squid_enemies_killed">Squid enemies killed</string>
+    <string name="stat_shmup_ufo_enemies_killed">UFO enemies killed</string>
+    <string name="stat_shmup_crab_enemies_killed">Crab enemies killed</string>
+    <string name="stat_breakout_highest_level_reached">Highest level reached</string>
+    <string name="stat_breakout_current_level_reached">Current level reached</string>
+    <string name="stat_shmup_highest_level_reached">Highest level reached</string>
+    <string name="stat_shmup_current_level_reached">Current level reached</string>
+</resources>
